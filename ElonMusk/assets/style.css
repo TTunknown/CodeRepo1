@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('/images/SmokingMusk.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 1080px;
+    height: 1920px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.elonmusktitles {
+    top: 1100px;
+    left: 10px;
+    position: absolute;
+}
+
+.elonmusktitles h1 {
+    padding: 100px 100px 10px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.elonmusktitles h2 {
+    padding: 10px 100px 10px;
+    font-size: 25px;
+    font-weight: 600px;
+}
+
+.elonlist {
+    padding: 100px 100px 10px;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    top: 1250px;
+    left: 10px;
+}
+
+.elonmusktag {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+
+    position: absolute;
+    width: 170px;
+    height: 50px;
+    padding: 13px;
+    top: 1200px;
+    right: -30%;
+    text-align: center;
+    background-color: darkslategrey;
+    color: #FFF;
+}
+
+.elonqr {
+    position: absolute;
+    top: 1300px;
+    right: -30%;
+    width: 300px;
+    height: 300px;
+}
+
+.footerimg {
+    position: absolute;
+    bottom: 0px;
+    margin: 0;
+    padding: 0;
+    align-content: center;
+}
+
+.footerimgprop {
+    width: 1499px;
+}
+
+.elonlist ul li:nth-child(1) {
+    padding: 10px;
+}
+
+.elonlist ul li:nth-child(2) {
+    padding: 10px;
+}
+
+.elonlist ul li:nth-child(3) {
+    padding: 10px;
+}
+
+.elonlist ul li:nth-child(4) {
+    padding: 10px;
+}
+
+.elonlist ul li:nth-child(5) {
+    padding: 10px;
+}
